@@ -16,7 +16,7 @@ ENFIELD_TENNIS_ACADEMY = [
   "Michael Pemulis"
 ]
 
-def assembled_matrix(array)
+def assembled_matrix([a], [b])
 assembled_matrix([ENNET_HOUSE], [ENFIELD_TENNIS_ACADEMY])
 puts assembled_matrix
 end
